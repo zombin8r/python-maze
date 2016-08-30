@@ -1,4 +1,4 @@
 print "Hello world"
-print "I am new to programming"
+print "I am seasoned in python programming"
 
 raw_input()
